@@ -9,8 +9,9 @@ Patch Davinci Resolve Studio 18.x-20.x to think it's activated
 
 ## Instructions
 
-1. Download release
-2. Right click "setup_resolvepatch.ps1" and click run with powershell
+1. Download source code
+2. extract
+3. Right click "setup_resolvepatch.ps1" and click run with powershell
 
 ## Disclaimer
 
